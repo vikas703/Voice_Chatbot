@@ -26,7 +26,7 @@ A lightweight Streamlit voice assistant that answers questions about **ME** (Vik
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/vikas-voice-bot.git
+git clone https://github.com/vikas703/Voice_Chatbot
 cd vikas-voice-bot
 ```
 
