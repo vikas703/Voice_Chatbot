@@ -1,0 +1,7 @@
+# Don't upload secret keys
+.env
+
+# Don't upload temp files
+__pycache__/
+*.pyc
+*.mp3
